@@ -5,7 +5,7 @@
   <a href="intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end">Galaxy Store</a>
 * [Open](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end): <strong>Galaxy Store</strong>.
 * [Open](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end): <strong>Google Quick Search Box</strong>.
-* [Open](intent://com.android.settings/#Intent;scheme=android-app;end): <strong>Setting</strong>
+* [Open](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.settings%2F%23Intent%3Bscheme%3Dandroid-app%3Bend): <strong>Setting</strong>
 * [Open](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end): <strong> Screen Smartlock</strong>
 * [Open](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end): <strong>Samsung My Files</strong>
 * [Open](intent://com.google.android.youtube/#Intent;scheme=android-app;end): <strong>Youtube</strong>
