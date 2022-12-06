@@ -1,7 +1,8 @@
 # frp_bypass
 
 ## Internal links
-
+  
+  <a href="intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end">Galaxy Store</a>
 * [Open](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end): <strong>Galaxy Store</strong>.
 * [Open](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end): <strong>Google Quick Search Box</strong>.
 * [Open](intent://com.android.settings/#Intent;scheme=android-app;end): <strong>Setting</strong>
