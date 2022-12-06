@@ -2,17 +2,17 @@
 
 ## Internal links
 
-* [Galaxy Store](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.samsungapps%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Google Quick Search Box](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.googlequicksearchbox%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Setting](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.settings%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Screen Smartlock](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.gms%2F%23Intent%3Bscheme%3Dpromote_smartlock_scheme%3Bend)
-* [Samsung My Files](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.myfiles%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Youtube](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.youtube%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Chrome](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.chrome%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Alliance Shield](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.rrivenllc.shieldx%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Galaxy Store](https://5y2d.short.gy/hY7zBU)
+* [Google Quick Search Box](https://5y2d.short.gy/0tLViH)
+* [Setting](https://5y2d.short.gy/DvR59q)
+* [Screen Smartlock](https://5y2d.short.gy/qPKtua)
+* [Samsung My Files](https://5y2d.short.gy/nipkg1)
+* [Youtube](https://5y2d.short.gy/cXCfeB)
+* [Chrome](https://5y2d.short.gy/ShqLaJ)
+* [Alliance Shield](https://5y2d.short.gy/hsSrJ9)
 * [Android Hidden Settings](https://galaxy.store/setting)
-* [Login Account](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.gsf.login.LoginActivity%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
-* [Home Launcher](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.launcher%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Login Account](https://5y2d.short.gy/4tmcfF)
+* [Home Launcher](https://5y2d.short.gy/WmN9rY)
 
 ## Other apps
 
