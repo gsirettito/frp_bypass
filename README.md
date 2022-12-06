@@ -1,19 +1,18 @@
 # frp_bypass
 
 ## Internal links
-  
-  <a href="intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end">Galaxy Store</a>
-* [Open](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end): <strong>Galaxy Store</strong>.
-* [Open](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end): <strong>Google Quick Search Box</strong>.
-* [Open](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.settings%2F%23Intent%3Bscheme%3Dandroid-app%3Bend): <strong>Setting</strong>
-* [Open](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end): <strong> Screen Smartlock</strong>
-* [Open](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end): <strong>Samsung My Files</strong>
-* [Open](intent://com.google.android.youtube/#Intent;scheme=android-app;end): <strong>Youtube</strong>
-* [Open](intent://com.android.chrome/#Intent;scheme=android-app;end): <strong>Chrome</strong>
-* [Open](intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end): <strong>Alliance Shield</strong>
-* [Open](https://galaxy.store/setting): <strong>Android Hidden Settings</strong>
-* [Open](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end): <strong>Login Account</strong>
-* [Open](intent://com.sec.android.app.launcher/#Intent;scheme=android-app;end): <strong>Home Launcher</strong>
+
+* [Galaxy Store](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.samsungapps%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Google Quick Search Box](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.googlequicksearchbox%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Setting](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.settings%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Screen Smartlock](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.gms%2F%23Intent%3Bscheme%3Dpromote_smartlock_scheme%3Bend)
+* [Samsung My Files](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.myfiles%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Youtube](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.youtube%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Chrome](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.android.chrome%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Alliance Shield](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.rrivenllc.shieldx%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Android Hidden Settings](https://galaxy.store/setting)
+* [Login Account](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.google.android.gsf.login.LoginActivity%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
+* [Home Launcher](https://halgatewood.com/deeplink/?link=intent%3A%2F%2Fcom.sec.android.app.launcher%2F%23Intent%3Bscheme%3Dandroid-app%3Bend)
 
 ## Other apps
 
