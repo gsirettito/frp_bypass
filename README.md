@@ -4,17 +4,17 @@
 
 ## Internal links
 
-* [Galaxy Store](http://ouo.io/qs/zZ5cofjT?s=intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end)
-* [Google Quick Search Box](http://ouo.io/qs/zZ5cofjT?s=intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
-* [Setting](http://ouo.io/qs/zZ5cofjT?s=intent://com.android.settings/#Intent;scheme=android-app;end)
-* [Screen Smartlock](http://ouo.io/qs/zZ5cofjT?s=intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
-* [Samsung My Files](http://ouo.io/qs/zZ5cofjT?s=intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
-* [Youtube](http://ouo.io/qs/zZ5cofjT?s=intent://com.google.android.youtube/#Intent;scheme=android-app;end)
-* [Chrome](http://ouo.io/qs/zZ5cofjT?s=intent://com.android.chrome/#Intent;scheme=android-app;end)
-* [Alliance Shield](http://ouo.io/qs/zZ5cofjT?s=intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end)
+* [Galaxy Store](https://ouo.io/fkDOyi)
+* [Google Quick Search Box](https://ouo.io/GwU2Md)
+* [Setting](https://ouo.io/Tlkvmk)
+* [Screen Smartlock](https://ouo.io/70A5k6)
+* [Samsung My Files](https://ouo.io/CX96vB)
+* [Youtube](https://ouo.io/woKjBP)
+* [Chrome](https://ouo.io/p7JnguZ)
+* [Alliance Shield](https://ouo.io/kTYKYC)
 * [Android Hidden Settings](https://galaxy.store/setting)
-* [Login Account](http://ouo.io/qs/zZ5cofjT?s=intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
-* [Home Launcher](http://ouo.io/qs/zZ5cofjT?s=intent://com.sec.android.app.launcher/#Intent;scheme=android-app;end)
+* [Login Account](https://ouo.io/0skXNM)
+* [Home Launcher](https://ouo.io/pilILk)
 
 ## Other apps
 
