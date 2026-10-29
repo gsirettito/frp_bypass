@@ -2,110 +2,97 @@
 
 <a href="https://samfw.com/blog/samfwtool"><img src="https://samfw.com/assets/img/logo_spin.gif"/></a>
 
-# List of functions
-## Samsung
-### FRP
+# SamFW Tool Features
 
-    * Remove FRP
-    * Remove FRP new security
-    * Remove FRP 2024 (USA models) 
-    * Remove FRP Android 16
-    * Block change CSC when change SIM
-### MTP mode
+A Windows-based utility for managing and unlocking Samsung, Xiaomi, LG, and other Android devices via ADB, MTP, Download Mode, EDL, and more.
 
-    * Factory reset (Test mode)
-    * Disable Knox (Test mode)
-    * Disable Factory mode
-    * KG Unlock (Untest)
-    * Factory reset
-    * Enable secret code for Verizon
-### ADB mode
+## Main Functions
 
-    * Change CSC
-    * Change SN (beta)
-    * Remove Samsung account (This function works to remove the account in Settings only, not supporting locked state)
-    * Enable Toggle mobile data (for some AT&T phone)
-    * Change CSC root mode
-### Download mode
+- **Remove FRP with one click:** Bypass the Google account lock (Factory Reset Protection) in a single step.
+- **Change CSC with one click:** Switch the region/consumer software customization code.
+- **Remove FRP for new security patch (Aug 2022 and later):** Supports devices with recent security updates.
+- **Remove FRP paid method:** Paid service option for unlocking FRP on all models and versions.
+- **Read info, Factory reset, Reset FRP:** Basic diagnostic and reset operations.
 
-    * Exit Download mode
-    * Soft brick Fix
-    * FRP Android 5/6 (support some models. If you see an error when trying, that means your device is not supported)
-### Odin Flash
+## Features by Brand / Connection Mode
 
-    * Save recent flash files
-    * Auto-detect file and select slot
-    * Auto-extract for ZIP file
-    * Ignore MD5 checksum
-### Misc
+### Samsung
 
-    * Check Driver signature enforcement status
-    * Disable/Enable Driver signature enforcement
-    * Install Samsung USB driver
-    * Install VC++ 2015 (for ADB works)
-## Xiaomi
-### ADB
+- **MTP Mode:**
+  - Read device information (Android version, FRP status, IMEI2, security patch level) [reference:0][reference:1].
+  - Factory Reset (2 methods).
+  - Enable secret code for Verizon phones (e.g., `*#06#`, `*#0*#`) [reference:2].
+  - Disable Knox.
+  - Open browser (YouTube, Google Maps, Samsung Browser) [reference:3].
 
-    * Bypass Micloud Android 8.1
-    * Enable Diag [ROOT]
-    * Fastboot
+- **ADB Mode:**
+  - Remove FRP (2 methods).
+  - Read full device information.
+  - Change CSC (includes list of supported CSC codes).
+  - Disable/Enable OTA updates.
+  - Application management: install APK/xAPK, install as Dual Messenger, remove bloatware [reference:4].
+  - Battery information (OneUI 8+, charge cycles) [reference:5].
+  - Set language, hide developer options, open network settings [reference:6][reference:7].
 
-    * [UNLOCKED] Remove FRP
-### Sideload
+- **Download / Odin Mode:**
+  - Odin flashing (auto-detect files, auto-extract firmware) [reference:8].
+  - Read information in Download Mode [reference:9].
+  - Reboot to Download Mode, Recovery Mode, or Normal Mode.
+  - Exit Download Mode / Fix soft-brick [reference:10].
 
-    * Factory reset
-    * Remove FRP
-    * Reset Micloud
-    * [QUALCOMM] Bypass Micloud clock (Anti relock)
-    * [QUALCOMM] Remove bypass Micloud clock (Anti relock)
-    * Read offline Micloud information
-### EDL 9008
+- **Test Mode (`*#0*#`):**
+  - Remove FRP for new security patches [reference:11].
+  - Disable Factory Mode [reference:12].
+  - Change CSC.
 
-    * Factory reset
-    * Reset FRP
-    * Reset Micloud
-## LG
-### MTP
+- **EDL (9008):**
+  - Read info, Factory Reset, Reset FRP [reference:13].
+  - Partition manager (Read/Write/Erase) [reference:14].
 
-    * Factory reset
-    * EDL (Support LG G7, G8, G8X, G8S, V30, V40, V50, V50S, Q6, G5, G6, V20, V35, V60)
+- **Exynos FRP Unlock:**
+  - Supports Exynos chipsets: 850, 880, 980, 990, 1080, 1280, 1330, 1380, 1480, 1580, 1680, 2100, 2200, 2400, 2500, 2600, W920, W930, W1000 [reference:15].
 
-    * Factory reset
-    * Remove FRP
-### LG UP
+### Xiaomi
 
-    * Flash LG KDZ 
-## Android
-### ADB
+- **ADB:** Bypass Mi Cloud (Android 8.1), enable Diag [reference:16].
+- **Sideload:** Factory Reset, Remove FRP, Reset Mi Cloud, bypass Mi Cloud (Anti-relock) [reference:17].
+- **EDL 9008:** Factory Reset, Reset FRP, Reset Mi Cloud.
+- **Fastboot:** Remove FRP (only on unlocked devices) [reference:18].
 
-    * Battery information
-    * Disable/Enable OTA Update
-    * Set language
-    * Factory reset
-    * Hide Developer options
-    * Open network settings
-### FRP
+### LG
 
-    * Open Browser (FRP)
-    * Remove FRP
-    * APP Manager
+- **MTP:** Factory Reset.
+- **EDL (supports G7, G8, G8X, G8S, V30, V40, V50, V50S, Q6, G5, G6, V20, V35, V60):** Factory Reset, Remove FRP [reference:19].
+- **LG UP:** Flash KDZ firmware [reference:20].
 
-    * Manager applications, remove, disable, enable, clear data single app, multi apps
-    * Install multi APK/xAPK
-    * Install any app on Dual Messenger
-    * Delete bloatware (For Korean, Japan, and US variants)
-### ROOT
+### Android (Generic)
 
-    * Remove screen lock (Root)
-## Qualcomm
-    * EDL 9008 Partitions manager (Read/Write/Erase)
-    * EDL 9008 Reset FRP, Factory reset, Erase userdata
- 
+- **ADB:**
+  - Battery info (ASOH and BSOH) [reference:21].
+  - Disable/Enable OTA updates.
+  - Set language, Factory Reset, hide developer options, open network settings.
+  - Application manager (delete, disable, clear data).
+  - Install multiple APK/xAPK files [reference:22].
+- **ROOT:** Remove screen lock (root required) [reference:23].
 
-## Mediatek
-    * Factory reset
-    * Format user data
-    * Remove FRP
-    * Unlock bootloader
-    * Relock bootloader
-    * Bypass auth
+### Qualcomm
+
+- **EDL 9008:** Partition manager (Read/Write/Erase), Reset FRP, Factory Reset, Erase userdata [reference:24].
+
+### MediaTek
+
+- **Functions:** Factory Reset, Format userdata, Remove FRP, Unlock/Relock bootloader, Bypass Auth [reference:25].
+
+### Apple (iPhone/iPad)
+
+- **Basic support:** Read information in Normal/Recovery/DFU mode, reboot to Recovery or Normal mode [reference:26].
+
+## Other Utilities
+
+- **Driver management:** Auto-install Samsung USB drivers and Visual C++ 2015 [reference:27].
+- **Driver signature check:** Verify and disable/enable Windows driver signature enforcement [reference:28].
+- **User interface:** Button descriptions on hover, automatic log saving, minimize to system tray [reference:29][reference:30].
+
+---
+
+*This list summarizes the documented capabilities of SamFW Tool. Note that some features are model, Android version, or security patch-specific. Use the tool at your own risk.*
